@@ -2,5 +2,5 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  Software Developer building scalable, user-focused web and mobile applications.
+Full-Stack Frontend & Mobile Developer experienced in building high-performance web applications and cross-platform mobile apps.
 </p>
